@@ -525,6 +525,7 @@ Serial,Symbol,Company Name,Screener Stock Symbol,Screener Stock Url
 524,EASEMYTRIP,Easy Trip Planners Limited,EASEMYTRIP,https://www.screener.in/company/EASEMYTRIP/
 525,VIPIND,VIP Industries Limited,VIPIND,https://www.screener.in/company/VIPIND/consolidated/
 526,IONEXCHANG,ION Exchange (India) Limited,IONEXCHANG,https://www.screener.in/company/IONEXCHANG/consolidated/
+527,RESPONIND,Responsive Industries Limited,RESPONIND,https://www.screener.in/company/RESPONIND/consolidated/
 528,MIDHANI,Mishra Dhatu Nigam Limited,MIDHANI,https://www.screener.in/company/MIDHANI/
 529,EMIL,Electronics Mart India Limited,EMIL,https://www.screener.in/company/EMIL/
 530,GAEL,Gujarat Ambuja Exports Limited,GAEL,https://www.screener.in/company/GAEL/
@@ -601,6 +602,7 @@ Serial,Symbol,Company Name,Screener Stock Symbol,Screener Stock Url
 601,SANGHVIMOV,Sanghvi Movers Limited,SANGHVIMOV,https://www.screener.in/company/SANGHVIMOV/
 602,SANDUMA,Sandur Manganese & Iron Ores Limited,SANDUMA,https://www.screener.in/company/SANDUMA/
 603,UJJIVAN,Ujjivan Financial Services Limited,UJJIVANSFB,https://www.screener.in/company/UJJIVANSFB/
+604,ITDCEM,ITD Cementation India Limited,ITDCEM,https://www.screener.in/company/ITDCEM/consolidated/
 605,CYIENTDLM,Cyient DLM Limited,CYIENTDLM,https://www.screener.in/company/CYIENTDLM/
 606,EPL,EPL Limited,EPL,https://www.screener.in/company/EPL/consolidated/
 607,SUPRAJIT,Suprajit Engineering Limited,SUPRAJIT,https://www.screener.in/company/SUPRAJIT/consolidated/
@@ -622,6 +624,7 @@ Serial,Symbol,Company Name,Screener Stock Symbol,Screener Stock Url
 623,CHOICEIN,Choice International Limited,CHOICEIN,https://www.screener.in/company/CHOICEIN/consolidated/
 624,AURIONPRO,Aurionpro Solutions Limited,AURIONPRO,https://www.screener.in/company/AURIONPRO/consolidated/
 625,PAISALO,Paisalo Digital Limited,PAISALO,https://www.screener.in/company/PAISALO/consolidated/
+626,ITDC,India Tourism Development Corporation Limited,ITDCEM,https://www.screener.in/company/ITDCEM/consolidated/
 627,HNDFDS,Hindustan Foods Limited,HNDFDS,https://www.screener.in/company/HNDFDS/consolidated/
 628,PARADEEP,Paradeep Phosphates Limited,PARADEEP,https://www.screener.in/company/PARADEEP/consolidated/
 629,KESORAMIND,Kesoram Industries Limited,KESORAMIND,https://www.screener.in/company/KESORAMIND/consolidated/
@@ -878,6 +881,7 @@ Serial,Symbol,Company Name,Screener Stock Symbol,Screener Stock Url
 880,SANGHIIND,Sanghi Industries Limited,SANGHIIND,https://www.screener.in/company/SANGHIIND/
 881,BSHSL,Bombay Super Hybrid Seeds Limited,BSHSL,https://www.screener.in/company/BSHSL/
 882,SATIN,Satin Creditcare Network Limited,SATIN,https://www.screener.in/company/SATIN/consolidated/
+883,AXISCADES,AXISCADES Technologies Limited,AXISCADES,https://www.screener.in/company/AXISCADES/consolidated/
 884,ARTEMISMED,Artemis Medicare Services Limited,ARTEMISMED,https://www.screener.in/company/ARTEMISMED/
 885,SASKEN,Sasken Technologies Limited,SASKEN,https://www.screener.in/company/SASKEN/consolidated/
 886,EIHAHOTELS,EIH Associated Hotels Limited,EIHAHOTELS,https://www.screener.in/company/EIHAHOTELS/
@@ -1511,6 +1515,8 @@ Serial,Symbol,Company Name,Screener Stock Symbol,Screener Stock Url
 1514,UNIVPHOTO,Universus Photo Imagings Limited,UNIVPHOTO,https://www.screener.in/company/UNIVPHOTO/consolidated/
 1515,SCPL,Sheetal Cool Products Limited,SCPL,https://www.screener.in/company/SCPL/
 1516,SIGMA,Sigma Solve Limited,SIGMA,https://www.screener.in/company/SIGMA/consolidated/
+1517,IZMO,IZMO Limited,IZMO,https://www.screener.in/company/IZMO/consolidated/
+1518,SINTERCOM,Sintercom India Limited,SINTERCOM,https://www.screener.in/company/SINTERCOM/
 1519,FOCE,Foce India Limited,FOCE,https://www.screener.in/company/FOCE/consolidated/
 1520,PODDARMENT,Poddar Pigments Limited,PODDARMENT,https://www.screener.in/company/PODDARMENT/
 1521,PLAZACABLE,Plaza Wires Limited,PLAZACABLE,https://www.screener.in/company/PLAZACABLE/
@@ -1681,6 +1687,7 @@ Serial,Symbol,Company Name,Screener Stock Symbol,Screener Stock Url
 1686,NECCLTD,North Eastern Carrying Corporation Limited,NECCLTD,https://www.screener.in/company/NECCLTD/
 1687,CCHHL,Country Club Hospitality & Holidays Limited,CCHHL,https://www.screener.in/company/CCHHL/consolidated/
 1688,SUPERHOUSE,Superhouse Limited,SUPERHOUSE,https://www.screener.in/company/SUPERHOUSE/consolidated/
+1689,RAMANEWS,Shree Rama Newsprint Limited,RAMANEWS,https://www.screener.in/company/RAMANEWS/
 1690,HILTON,Hilton Metal Forging Limited,HILTON,https://www.screener.in/company/HILTON/
 1691,NDGL,Naga Dhunseri Group Limited,NDGL,https://www.screener.in/company/NDGL/consolidated/
 1692,GSS,GSS Infotech Limited,GSS,https://www.screener.in/company/GSS/consolidated/
@@ -2024,6 +2031,7 @@ Serial,Symbol,Company Name,Screener Stock Symbol,Screener Stock Url
 2030,GOLDENTOBC,Golden Tobacco Limited,GOLDENTOBC,https://www.screener.in/company/GOLDENTOBC/consolidated/
 2031,LEXUS,Lexus Granito (India) Limited,LEXUS,https://www.screener.in/company/LEXUS/
 2032,MAGSON,Magson Retail And Distribution Limited,MAGSON,https://www.screener.in/company/MAGSON/consolidated/
+2033,SERVICE,Service Care Limited,SERVICE,https://www.screener.in/company/SERVICE/
 2034,ROML,Raj Oil Mills Limited,ROML,https://www.screener.in/company/ROML/
 2035,NGIL,Nakoda Group of Industries Limited,NGIL,https://www.screener.in/company/NGIL/
 2036,CLSL,Crop Life Science Limited,CLSL,https://www.screener.in/company/CLSL/consolidated/
